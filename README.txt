@@ -8,7 +8,9 @@
 
 5. Click "Service" tab menu bar of Netbean. Right click on "Database" and click "New connection". Select "MySQL (Connector /J Driver)" in Database. Click on "Add" button and then browser to your "mysql-connector-j-8.0.33.jar" (exist in "MySQL and Reqire to install files")
 
-5. You can run your program....Default Admin username = admin and password = 123 
+6. IF you see the problem in "Payment" Class, that ploblem will be JCalander. So, you have to import "jclander-1.4.jar" where "GymManagementSystem (JavaSwing and MySQL) (First Project)\MySQL and Require to Install files\jcalendar-1.4 (Palette)\lib".
 
-6. Good Luck! Have Fun :P
+7. You can run your program....Default Admin username = admin and password = 123 
+
+8. Good Luck! Have Fun :P
 
